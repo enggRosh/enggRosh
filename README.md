@@ -7,7 +7,7 @@ I'm currently seeking postgraduate research positions, PhD opportunities, or ind
 ---
 
 ## 🛠️ Technical Skills
-
+```
 **Frontend:** HTML, CSS, JavaScript, jQuery, React, SwiftUI
 **Backend:** Node.js, Express.js, Firebase, MongoDB, MySQL, RESTful APIs
 **Programming Languages:** Python, JavaScript, Java, C, C++, SQL, NoSQL
@@ -16,6 +16,7 @@ I'm currently seeking postgraduate research positions, PhD opportunities, or ind
 **ML & Deep Learning:** PyTorch, TensorFlow (Basics), OpenCV , Keras
 **Embedded Systems:** Embedded C, Arduino, 8051/8085, Assembly, Raspberry Pi, Sensors, VHDL (Basics),SDN, Edge Computing
 **Cloud Platforms:** AWS, Azure, Google Cloud Platform,Firebase Cloud Functions
+```
 ---
 
 ## 🚀 Selected Projects
