@@ -17,6 +17,9 @@ With over 8 years of experience in academia and IT engineering, I'm now focused 
 
 ## 🚀 Selected Projects
 
+### [Kvasir-SEG-Unet-Augmentation-Study](https://github.com/enggRosh/Kvasir-SEG-Unet-Augmentation-Study-Project)
+Biomedical image segmentation using U-Net on the Kvasir-SEG dataset. Focused on evaluating the impact of data augmentation on model generalization and Dice score. Training completed; evaluation and post-processing in progress.
+
 ### [FlightTelemetryMonitor](https://github.com/enggRosh/FlightTelemetryMonitor)  
 Real-time telemetry simulator (C++17 + CMake), with multi-anomaly detection and structured CSV/text logging.
 
