@@ -1,18 +1,21 @@
 # 👩‍💻 Roshani Kumari Jha — Software Engineer | Systems | IoT | Full Stack
 
-I'm a passionate software engineer, recently graduated from the **University of New Haven** (GPA 3.89).  
-With over 8 years of experience in academia and IT engineering, I'm now focused on building **elegant, accessible, and high-performance software** across systems programming, IoT, edge computing, and full-stack development.
+I'm a passionate software engineer and recent graduate from the University of New Haven (GPA: 3.91), with over 8 years of experience in academia and IT engineering. My work spans systems programming, IoT, edge computing, and full-stack development, with a growing focus on deep learning for biomedical applications.
+
+I'm currently seeking postgraduate research positions, PhD opportunities, or industry roles where I can contribute to impactful, high-performance software and data-driven research. Open to collaborations and academic-industrial partnerships.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages:** JavaScript, HTML, CSS, Swift, Java, C/C++, Python  
-**Frontend:** React, SwiftUI, DOM, Responsive Design  
-**Backend & Tools:** Node.js, Express.js, Firebase, MongoDB, MySQL, CMake  
-**Systems & IoT:** Embedded C, Arduino, Raspberry Pi, SDN, Edge Computing  
-**Other:** Git, REST APIs, CMake, Mininet, Ryu Controller, Firebase Cloud Functions
-
+**Frontend:** HTML, CSS, JavaScript, jQuery, React, SwiftUI
+**Backend:** Node.js, Express.js, Firebase, MongoDB, MySQL, RESTful APIs
+**Programming Languages:** Python, JavaScript, Java, C, C++, SQL, NoSQL
+**Tools & Platforms:** Selenium (Java), Git, GitHub, Xcode, Visual Studio Code, Word, Excel
+**Testing & Automation:** CMake, Mininet, Ryu Controller, Open vSwitch, Manual & Automated Testing
+**ML & Deep Learning:** PyTorch, TensorFlow (Basics), OpenCV , Keras
+**Embedded Systems:** Embedded C, Arduino, 8051/8085, Assembly, Raspberry Pi, Sensors, VHDL (Basics),SDN, Edge Computing
+**Cloud Platforms:** AWS, Azure, Google Cloud Platform,Firebase Cloud Functions
 ---
 
 ## 🚀 Selected Projects
@@ -49,11 +52,13 @@ Embedded system for real-time water level monitoring and alerting (C++ + Microco
 
 ## 🌍 Interests
 
-- Front-End Development  
-- IoT & Edge Systems  
-- Real-Time Systems & Anomaly Detection  
-- Full Stack Engineering  
-- Interactive Research-Driven Tools  
+- Biomedical Image Analysis and Deep Learning 
+- IoT and Edge Computing Architecture
+- SDN-Based Systems for Real-Time Data Flow  
+- Front-End Development and User-Centered Interfaces
+- Full-Stack Engineering (Web, Mobile, Cloud)
+- Real-Time Systems and Anomaly Detection
+- Interactive, Research-Driven
 
 ---
 
