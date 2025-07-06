@@ -5,7 +5,7 @@ I'm a passionate software engineer and recent graduate from the University of Ne
 I'm currently seeking postgraduate research positions, PhD opportunities, or industry roles where I can contribute to impactful, high-performance software and data-driven research. Open to collaborations and academic-industrial partnerships.
 
 ---
-
+```
 ## 🛠️ Technical Skills
 **Frontend:** HTML, CSS, JavaScript, React, SwiftUI
 **Backend:** Firebase, MongoDB, MySQL, RESTful APIs
@@ -15,7 +15,7 @@ I'm currently seeking postgraduate research positions, PhD opportunities, or ind
 **ML & Deep Learning:** PyTorch, TensorFlow (Basics), OpenCV , Keras
 **Embedded Systems:** Embedded C, Arduino, 8051/8085, Assembly, Raspberry Pi, Sensors, VHDL (Basics),SDN, Edge Computing
 **Cloud Platforms:** AWS, Azure, Google Cloud Platform,Firebase Cloud Functions
-
+```
 ---
 
 ## 🚀 Selected Projects
