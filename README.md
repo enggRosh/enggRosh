@@ -51,11 +51,11 @@ Embedded system for real-time water level monitoring and alerting (C++ + Microco
 
 ## 🌍 Interests
 
+- Full-Stack Engineering (Web, Mobile, Cloud)
+- Front-End Development and User-Centered Interfaces
 - Biomedical Image Analysis and Deep Learning 
 - IoT and Edge Computing Architecture
 - SDN-Based Systems for Real-Time Data Flow  
-- Front-End Development and User-Centered Interfaces
-- Full-Stack Engineering (Web, Mobile, Cloud)
 - Real-Time Systems and Anomaly Detection
 - Interactive, Research-Driven
 
