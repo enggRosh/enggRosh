@@ -1,9 +1,8 @@
 # 👩‍💻 Roshani Kumari Jha — Software Engineer | Systems | IoT | Full Stack
 
-I'm a passionate software engineer and recent graduate from the University of New Haven (GPA: 3.91), with over 8 years of experience in academia and IT engineering. My work spans systems programming, IoT, edge computing, and full-stack development, with a growing focus on deep learning for biomedical applications.
+I'm a Full Stack Java Developer and recent M.S. Computer Science graduate from the University of New Haven (GPA 3.91), with nearly 7 years of experience designing, developing, and deploying scalable enterprise applications. I specialize in building robust microservices and web applications using Java, Spring Boot, Angular, React, and cloud-native technologies across AWS and GCP.
 
-I'm currently seeking postgraduate research positions, PhD opportunities, or industry roles where I can contribute to impactful, high-performance software and data-driven research. Open to collaborations and academic-industrial partnerships.
-
+I have a strong background in developing RESTful APIs, implementing security frameworks, and integrating CI/CD pipelines with Jenkins, Docker, and Kubernetes. Skilled at working in Agile teams, applying design patterns, optimizing database queries, and ensuring performance through automated testing and monitoring. Passionate about delivering secure, high-quality, and maintainable software solutions that meet business goals.
 ---
 ```
 ## 🛠️ Technical Skills
