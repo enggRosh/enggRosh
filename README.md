@@ -63,7 +63,7 @@ Embedded system for real-time water level monitoring and alerting (C++ + Microco
 
 ## 📫 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/enggroshani-jha/) • [GitHub](https://github.com/enggRosh) • enggroshani.jha1818@gmail.com
+[LinkedIn](https://www.linkedin.com/in/enggroshani-jha/) • [GitHub](https://github.com/enggRosh) • jharoshanik.08@gmail.com
 
 ---
 
