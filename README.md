@@ -3,19 +3,6 @@
 I'm a Full Stack Java Developer and recent M.S. Computer Science graduate from the University of New Haven (GPA 3.91), with nearly 7 years of experience designing, developing, and deploying scalable enterprise applications. I specialize in building robust microservices and web applications using Java, Spring Boot, Angular, React, and cloud-native technologies across AWS and GCP.
 
 I have a strong background in developing RESTful APIs, implementing security frameworks, and integrating CI/CD pipelines with Jenkins, Docker, and Kubernetes. Skilled at working in Agile teams, applying design patterns, optimizing database queries, and ensuring performance through automated testing and monitoring. Passionate about delivering secure, high-quality, and maintainable software solutions that meet business goals.
----
-```
-## 🛠️ Technical Skills
-**Frontend:** HTML, CSS, JavaScript, React, SwiftUI
-**Backend:** Firebase, MongoDB, MySQL, RESTful APIs
-**Programming Languages:** Python, JavaScript, Java, C, C++, SQL, NoSQL
-**Tools & Platforms:** Selenium (Java), Git, GitHub, Xcode, Visual Studio Code, Word, Excel
-**Testing & Automation:** CMake, Mininet, Ryu Controller, Open vSwitch, Manual & Automated Testing
-**ML & Deep Learning:** PyTorch, TensorFlow (Basics), OpenCV , Keras
-**Embedded Systems:** Embedded C, Arduino, 8051/8085, Assembly, Raspberry Pi, Sensors, VHDL (Basics),SDN, Edge Computing
-**Cloud Platforms:** AWS, Azure, Google Cloud Platform,Firebase Cloud Functions
-```
----
 
 ## 🚀 Selected Projects
 
@@ -46,18 +33,6 @@ Embedded system for real-time water level monitoring and alerting (C++ + Microco
 
 **University of New Haven** – M.S. Computer Science (2023–2025)  
 **Pokhara University** – B.E. Electronics & Communication  
-
----
-
-## 🌍 Interests
-
-- Full-Stack Engineering (Web, Mobile, Cloud)
-- Front-End Development and User-Centered Interfaces
-- Biomedical Image Analysis and Deep Learning 
-- IoT and Edge Computing Architecture
-- SDN-Based Systems for Real-Time Data Flow  
-- Real-Time Systems and Anomaly Detection
-- Interactive, Research-Driven
 
 ---
 
