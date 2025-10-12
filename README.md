@@ -32,7 +32,6 @@ Embedded system for real-time water level monitoring and alerting (C++ + Microco
 ## 🎓 Education
 
 **University of New Haven** – M.S. Computer Science (2023–2025)  
-**Pokhara University** – B.E. Electronics & Communication  
 
 ---
 
