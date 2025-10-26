@@ -1,8 +1,4 @@
-# 👩‍💻 Roshani Kumari Jha — Software Engineer | Systems | IoT | Full Stack
-
-I'm a Full Stack Java Developer and recent M.S. Computer Science graduate from the University of New Haven (GPA 3.91), with nearly 7 years of experience designing, developing, and deploying scalable enterprise applications. I specialize in building robust microservices and web applications using Java, Spring Boot, Angular, React, and cloud-native technologies across AWS and GCP.
-
-I have a strong background in developing RESTful APIs, implementing security frameworks, and integrating CI/CD pipelines with Jenkins, Docker, and Kubernetes. Skilled at working in Agile teams, applying design patterns, optimizing database queries, and ensuring performance through automated testing and monitoring. Passionate about delivering secure, high-quality, and maintainable software solutions that meet business goals.
+👩‍💻 Roshani Kumari Jha — Full-Stack Java Developer | IoT & Edge Systems Engineer | M.S. Computer Science ’25
 
 ## 🚀 Selected Projects
 
@@ -35,10 +31,3 @@ Embedded system for real-time water level monitoring and alerting (C++ + Microco
 
 ---
 
-## 📫 Connect with Me
-
-[LinkedIn](https://www.linkedin.com/in/enggroshani-jha/) • [GitHub](https://github.com/enggRosh) • jharoshanik.08@gmail.com
-
----
-
-*Portfolio actively maintained — most recent project: FlightTelemetryMonitor (C++ Real-Time Telemetry System).*
